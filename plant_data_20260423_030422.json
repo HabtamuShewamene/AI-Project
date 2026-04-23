@@ -1,0 +1,20 @@
+{
+  "1": {
+    "leaf_color": "green",
+    "moisture": 50,
+    "temperature": 25,
+    "last_leaf_color": null,
+    "last_moisture": null,
+    "last_temperature": null,
+    "infection_history": [],
+    "observation_history": [
+      {
+        "leaf_color": "green",
+        "moisture": 50,
+        "temperature": 25,
+        "timestamp": "03:04:01"
+      }
+    ],
+    "last_updated": "03:04:01"
+  }
+}
